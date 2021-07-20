@@ -576,14 +576,14 @@ comments:
   nav:
     disqus:
       text: Load Disqus
-      order: -1
-    gitalk:
       order: -2
+    gitalk:
+      order: -1
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: gatsbys-blog
   count: true
   #post_meta_order: 0
 
